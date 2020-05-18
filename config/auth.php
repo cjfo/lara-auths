@@ -112,6 +112,6 @@ return [
     |
     */
 
-    'password_timeout' => 10800,//TODO
+    'password_timeout' => 10800,//TODOx
 
 ];
